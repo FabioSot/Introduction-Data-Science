@@ -11,7 +11,7 @@ kaggle tutorial and exercise: https://www.kaggle.com/learn/pandas
 
 article https://medium.com/bhavaniravi/python-pandas-tutorial-92018da85a33
 
-corso: https://www.coursera.org/projects/python-for-data-analysis-numpy
+course: https://www.coursera.org/projects/python-for-data-analysis-numpy
 
 
 ## numpy:
@@ -23,7 +23,7 @@ article: https://towardsdatascience.com/getting-started-with-numpy-59b22df56729
 
 kaggle:https://www.kaggle.com/code/sanikamal/getting-started-with-numpy/notebook
 
-corso: https://www.coursera.org/projects/python-for-data-analysis-numpy
+course: https://www.coursera.org/projects/python-for-data-analysis-numpy
 
 ## matplotlib:
 documentation: https://matplotlib.org/stable/users/getting_started/index.html
@@ -34,7 +34,7 @@ article: https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pyth
 
 kaggle: kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners/notebook
 
-corso: https://www.coursera.org/projects/python-for-data-visualization-seaborn
+course: https://www.coursera.org/projects/python-for-data-visualization-seaborn
 
 ## missing values:
 
@@ -42,7 +42,7 @@ article: https://towardsdatascience.com/8-methods-for-handling-missing-values-wi
 
 youtube: https://www.youtube.com/watch?v=P_iMSYQnqac
 
-corso: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
+course: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
 
 ## enconding variables:
 yotutube:https://www.youtube.com/watch?v=OTPz5plKb40
