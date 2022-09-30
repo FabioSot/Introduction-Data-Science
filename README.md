@@ -3,11 +3,16 @@
 #### free materials:
 
 ## pandas:
-youtube playlist: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS.
-documentazione: https://pandas.pydata.org/docs/index.html.
-kaggle tutorial and exercise: https://www.kaggle.com/learn/pandas.
-article https://medium.com/bhavaniravi/python-pandas-tutorial-92018da85a33.
-corso: https://www.coursera.org/projects/python-for-data-analysis-numpy.
+youtube playlist: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+
+documentazione: https://pandas.pydata.org/docs/index.html
+
+kaggle tutorial and exercise: https://www.kaggle.com/learn/pandas
+
+article https://medium.com/bhavaniravi/python-pandas-tutorial-92018da85a33
+
+corso: https://www.coursera.org/projects/python-for-data-analysis-numpy
+
 
 ## numpy:
 youtube video: https://www.youtube.com/watch?v=QUT1VHiLmmI
