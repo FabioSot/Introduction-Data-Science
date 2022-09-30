@@ -32,7 +32,7 @@ youtube: https://www.youtube.com/watch?v=qErBw-R2Ybk
 
 article: https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596
 
-kaggle: kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners/notebook
+kaggle: [kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners/notebook](https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners/notebook)
 
 
 course: https://www.coursera.org/projects/python-for-data-visualization-seaborn
