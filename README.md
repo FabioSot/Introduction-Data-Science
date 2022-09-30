@@ -1,15 +1,15 @@
 # Introduction-Data-Science
 
-FREE MATERIALS
+#FREE MATERIALS
 
-pandas:
-youtube playlist: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
-documentazione: https://pandas.pydata.org/docs/index.html
-kaggle tutorial and exercise: https://www.kaggle.com/learn/pandas
-article https://medium.com/bhavaniravi/python-pandas-tutorial-92018da85a33
-corso: https://www.coursera.org/projects/python-for-data-analysis-numpy
+## pandas:
+youtube playlist: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS.
+documentazione: https://pandas.pydata.org/docs/index.html.
+kaggle tutorial and exercise: https://www.kaggle.com/learn/pandas.
+article https://medium.com/bhavaniravi/python-pandas-tutorial-92018da85a33.
+corso: https://www.coursera.org/projects/python-for-data-analysis-numpy.
 
-numpy:
+## numpy:
 youtube video: https://www.youtube.com/watch?v=QUT1VHiLmmI
 documentation: https://numpy.org/doc/stable/user/quickstart.html
 article: https://towardsdatascience.com/getting-started-with-numpy-59b22df56729
