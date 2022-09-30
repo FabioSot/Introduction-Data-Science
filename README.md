@@ -49,4 +49,4 @@ yotutube:https://www.youtube.com/watch?v=OTPz5plKb40
 
 article: https://towardsdatascience.com/6-ways-to-encode-features-for-machine-learning-algorithms-21593f6238b0
 
-corso: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
+course: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
