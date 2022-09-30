@@ -1,8 +1,8 @@
-# Introduction-Data-Science
+# Introduction to Data Science
 
-#### free materials:
+## free materials:
 
-## pandas:
+### pandas:
 youtube playlist: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
 
 documentazione: https://pandas.pydata.org/docs/index.html
@@ -14,7 +14,7 @@ article https://medium.com/bhavaniravi/python-pandas-tutorial-92018da85a33
 course: https://www.coursera.org/projects/python-for-data-analysis-numpy
 
 
-## numpy:
+### numpy:
 youtube video: https://www.youtube.com/watch?v=QUT1VHiLmmI
 
 documentation: https://numpy.org/doc/stable/user/quickstart.html
@@ -25,7 +25,7 @@ kaggle:https://www.kaggle.com/code/sanikamal/getting-started-with-numpy/notebook
 
 course: https://www.coursera.org/projects/python-for-data-analysis-numpy
 
-## matplotlib:
+### matplotlib:
 documentation: https://matplotlib.org/stable/users/getting_started/index.html
 
 youtube: https://www.youtube.com/watch?v=qErBw-R2Ybk
@@ -37,7 +37,7 @@ kaggle: [kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners/notebook]
 
 course: https://www.coursera.org/projects/python-for-data-visualization-seaborn
 
-## missing values:
+### handling missing values:
 
 article: https://towardsdatascience.com/8-methods-for-handling-missing-values-with-python-pandas-842544cdf891
 
@@ -45,9 +45,27 @@ youtube: https://www.youtube.com/watch?v=P_iMSYQnqac
 
 course: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
 
-## enconding variables:
+### enconding variables:
 yotutube:https://www.youtube.com/watch?v=OTPz5plKb40
 
 article: https://towardsdatascience.com/6-ways-to-encode-features-for-machine-learning-algorithms-21593f6238b0
 
 course: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
+
+## paid courses on DataCamp
+https://www.datacamp.com/
+
+### pandas:
+Data Manipulation with pandas (over 3 hours Python course by Richie Cotton)
+
+### numpy:
+Introduction to numpy (over 3 hours Python course by Izzy Weber)
+
+### matplotlib:
+Introduction to visualisation with Matplotlib (over 3 hours Python course by Ariel Rokem)
+
+### handling missing values:
+Dealing with Missing Data in Python (over 3 hours Python course by Suraj Donthi)
+
+### enconding variables:
+Preprocessing for Machine Learning in Python (over 3 hours Python course)
